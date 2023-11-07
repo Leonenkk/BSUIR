@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Users\Maksim\OneDrive\Desktop\my-projects\BSUIR\1-semestr\AOIP\lab2\lab2.cpp(22): warning C4715: minimum: значение возвращается не при всех путях выполнения
+C:\Users\Maksim\OneDrive\Desktop\my-projects\BSUIR\1-semestr\AOIP\lab2\lab2.cpp(13): warning C4715: max1: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> C:\Users\Maksim\OneDrive\Desktop\my-projects\BSUIR\1-semestr\AOIP\lab2\x64\Debug\lab2.exe
